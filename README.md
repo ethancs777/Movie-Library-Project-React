@@ -1,4 +1,4 @@
-# To-Do-Project-React
+# Movie-Library-Project-React
 Project from Tech With Tim YouTube channel with customization.
 
 Link to video: https://www.youtube.com/watch?v=G6D9cBaLViA
