@@ -127,17 +127,35 @@
 
 @media (max-width: 768px) {
   .movie-card {
-    width: 12rem;
-    min-width: 7rem;
-    max-width: 10rem;
-    font-size: 0.9rem;
+    width: 8rem;
+    min-width: 5.5rem;
+    max-width: 9rem;
+    font-size: 0.8rem;
   }
   .movie-info {
-    padding: 0.75rem;
+    padding: 0.5rem;
   }
   .favorite-btn {
-    width: 2rem;
-    height: 2rem;
-    font-size: 1.2rem;
+    width: 1.5rem;
+    height: 1.5rem;
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 500px) {
+  .movie-card {
+    width: 6.2rem;
+    min-width: 4.5rem;
+    max-width: 7rem;
+    font-size: 0.7rem;
+    margin: 0;
+  }
+  .movie-info {
+    padding: 0.3rem;
+  }
+  .favorite-btn {
+    width: 1.2rem;
+    height: 1.2rem;
+    font-size: 0.9rem;
   }
 }
